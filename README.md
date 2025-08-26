@@ -1,4 +1,4 @@
-# FileChecker
+# File-Validity-Checker
 
 A Python tool that validates file sharing URLs and identifies broken or invalid links from various file hosting services.
 
